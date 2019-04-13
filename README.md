@@ -8,11 +8,11 @@ Clone the repo:
 
 ## Installation
 
-- ```sh
+ ```sh
   npm install
  ```
 
-- ```sh
+```sh
  node index.js
  ```
 
