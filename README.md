@@ -9,7 +9,7 @@ Clone the repo:
 ## Installation
 
 - ```sh
- npm install
+  npm install
  ```
 
 - ```sh
