@@ -3,7 +3,7 @@
 Clone the repo:
 
 ```sh
- https://github.com/jatinlalwani97/gitapp.git
+ git clone https://github.com/jatinlalwani97/gitapp.git
  ```
 
 ## Installation
